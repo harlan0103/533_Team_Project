@@ -1,4 +1,4 @@
-#Bohemian Rhapsody
+# Bohemian Rhapsody
 <b>Team project for COMP533</b>
 
 ### Work flow
